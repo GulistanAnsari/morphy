@@ -82,9 +82,6 @@ nav ul li a:hover + .hidden, .hidden:hover {display: block;}
 .menu .fa{ font-size: 24px; }
 .show-menu {text-decoration: none;color: #fff;background: transparent;text-align:right;padding: 10px 15px;display: none;}
 
-input[type=checkbox]{display: none;}
-input[type=checkbox]:checked ~ #menu{display: block;}
-
 .links{width: 15%; float:right;}
 .links img{padding-top: 20px; width: 25px; padding-right: 15px;}
 
@@ -121,14 +118,6 @@ input[type=checkbox]:checked ~ #menu{display: block;}
 .product-section .owl-carousel .owl-item .product-area img {display: block;width: 50%;margin: 0 auto;}
 .butn-area{width: 100%; height: 50px;text-align: center;}
 .butn-area button{background: #2c2c2c;padding: 8px 40px;color: #fff;font-size: 15px;border: none;outline: none; cursor: pointer;}
-
-
-.breakfast-section{margin: 0 auto; padding: 30px;max-width: 1200px;}
-.breakfast-left{width: 50%; ;float: left; border-radius: 15px 0 0 15px;}
-.breakfast-right{width: 50%;  height: 499px; background: #ccc;float: left; border-radius: 0 15px 15px 0; color: #b5b5b5;}
-.breakfast-right h3{font-size: 83px;padding: 15px;}
-.breakfast-right p{font-size: 18px;padding: 15px;}
-.breakfast-left img{width: 100%;border-radius: 15px 0 0 15px;}
 
 .details-section{margin: 0 auto; padding: 30px;max-width: 1200px;height: 500px; position: relative;}
 .details-w40{width: 40%; margin-top:75px; overflow: hidden;float: left; height: 500px;border-radius: 15px 0 0 15px;background: #e6e6e6;}
